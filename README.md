@@ -1,7 +1,7 @@
 
 # Library Management System - TDT4100 Project Assignment
 
-Project in TDT4100 - Object-Oriented Programming as part of the assessment of the course. 
+Project in "TDT4100 - Object-Oriented Programming" as part of the final assessment in the course. 
 
 A basic implementation of a library management system. The functionality is built around a traditional library where you can register users in order to loan and deliver books. The loan will be confirmed with a .txt file, which can be retrieved later. 
 
